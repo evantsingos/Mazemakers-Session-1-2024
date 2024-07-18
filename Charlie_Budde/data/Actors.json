@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_5","characterIndex":3,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":14,"maxLevel":81,"name":"Chicken","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_7","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[{"code":35,"dataId":20,"value":1},{"code":32,"dataId":1,"value":1}],"initialLevel":16,"maxLevel":87,"name":"dude","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_7","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[{"code":33,"dataId":0,"value":19},{"code":32,"dataId":1,"value":1}],"initialLevel":20,"maxLevel":99,"name":"dog","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_1","characterIndex":2,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Nature","traits":[{"code":32,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":18,"maxLevel":76,"name":"fat","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
